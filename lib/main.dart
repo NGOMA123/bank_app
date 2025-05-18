@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           leading: Icon(Icons.menu),
-          title: Text('Bank App',
+          title: Text('Simu App',
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,
